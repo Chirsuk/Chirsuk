@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chirsuk
+- 👋 Hi, I’m @Chirsuk, UK based guy who wants to learn 
 - 👀 I’m interested in Linux, Haskell
 - 🌱 I’m currently learning Linux, Haskell
 - 💞️ I’m looking to collaborate on, actually i don't, I'm a complete beginner with little knowledge
